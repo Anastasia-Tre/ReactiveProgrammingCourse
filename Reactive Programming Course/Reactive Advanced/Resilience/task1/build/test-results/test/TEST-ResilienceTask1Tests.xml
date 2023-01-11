@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResilienceTask1Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-17T19:29:12" hostname="WIN-6QL49633JP9" time="0.129">
+  <properties/>
+  <testcase name="test1()" classname="ResilienceTask1Tests" time="0.126"/>
+  <testcase name="test2()" classname="ResilienceTask1Tests" time="0.002"/>
+  <system-out><![CDATA[21:29:12.172 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

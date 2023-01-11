@@ -1,0 +1,2 @@
+CommonOperatorsTask6Tests.java
+ CommonOperatorsTask6Tests

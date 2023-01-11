@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CPTask5Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-01-04T11:24:17" hostname="WIN-6QL49633JP9" time="8.427">
+  <properties/>
+  <testcase name="ensureItRollbacksEverythingInCaseOfErrorInOne()" classname="CPTask5Tests" time="3.775"/>
+  <testcase name="ensureItWorksInCaseOfConnectionOpenIssue()" classname="CPTask5Tests" time="1.621"/>
+  <testcase name="checkTimeoutWorked()" classname="CPTask5Tests" time="3.029"/>
+  <system-out><![CDATA[13:24:17.297 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

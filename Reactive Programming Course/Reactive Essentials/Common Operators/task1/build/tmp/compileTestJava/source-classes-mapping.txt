@@ -1,0 +1,3 @@
+CommonOperatorsTask1Tests.java
+ CommonOperatorsTask1Tests
+ CommonOperatorsTask1Tests$1

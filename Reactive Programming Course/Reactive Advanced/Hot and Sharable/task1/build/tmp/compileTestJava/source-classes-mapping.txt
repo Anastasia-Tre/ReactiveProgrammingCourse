@@ -1,0 +1,3 @@
+HnSTask1Tests.java
+ HnSTask1Tests
+ HnSTask1Tests$1

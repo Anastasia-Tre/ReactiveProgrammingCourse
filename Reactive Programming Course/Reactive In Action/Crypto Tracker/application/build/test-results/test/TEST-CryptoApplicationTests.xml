@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CryptoApplicationTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-04T09:42:13" hostname="WIN-6QL49633JP9" time="0.912">
+  <properties/>
+  <testcase name="verifyOutgoingStreamBackpressure()" classname="CryptoApplicationTests" time="0.714"/>
+  <testcase name="verifyIncomingMessageValidation()" classname="CryptoApplicationTests" time="0.196"/>
+  <system-out><![CDATA[11:42:13,548 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+11:42:13,549 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+11:42:13,550 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Users/NASA/IdeaProjects/Reactive%20Programming%20Course/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/test/logback.xml]
+11:42:13,551 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs multiple times on the classpath.
+11:42:13,551 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/C:/Users/NASA/IdeaProjects/Reactive%20Programming%20Course/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/test/logback.xml]
+11:42:13,551 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/C:/Users/NASA/IdeaProjects/Reactive%20Programming%20Course/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/main/logback.xml]
+11:42:13,632 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+11:42:13,632 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+11:42:13,641 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+11:42:13,647 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+11:42:13,680 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to WARN
+11:42:13,680 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+11:42:13,681 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+11:42:13,682 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@604f2bd2 - Registering current configuration as safe fallback point
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

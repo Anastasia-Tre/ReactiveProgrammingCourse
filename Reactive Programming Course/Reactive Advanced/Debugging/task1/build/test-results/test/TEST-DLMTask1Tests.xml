@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DLMTask1Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-03T15:34:56" hostname="WIN-6QL49633JP9" time="1.594">
+  <properties/>
+  <testcase name="testSolution()" classname="DLMTask1Tests" time="1.594"/>
+  <system-out><![CDATA[17:34:56.936 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+17:34:57.004 [single-1] INFO reactor.Flux.FlatMap.1 - onSubscribe(FluxFlatMap.FlatMapMain)
+17:34:57.008 [single-1] INFO reactor.Flux.FlatMap.1 - request(unbounded)
+17:34:57.267 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(1)
+17:34:57.376 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(0)
+17:34:57.484 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(0)
+17:34:57.595 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(0)
+17:34:57.706 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(0)
+17:34:57.816 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(0)
+17:34:57.925 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(1)
+17:34:58.037 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(1)
+17:34:58.146 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(1)
+17:34:58.257 [single-1] INFO reactor.Flux.FlatMap.1 - onNext(1)
+17:34:58.258 [single-1] INFO reactor.Flux.FlatMap.1 - cancel()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
